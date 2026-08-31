@@ -19,6 +19,6 @@ import { TaskListComponent } from './components/task-list/task-list.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public appTitle = 'Task Manager';
-  public appSubtitle = 'Gestión inteligente de tareas y mantenimiento de software';
+  public appTitle = 'Lista de Tareas';
+  public appSubtitle = 'Práctica 2 - Mantenimiento de Software';
 }

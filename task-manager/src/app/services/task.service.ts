@@ -9,19 +9,19 @@ export class TaskService {
   private tasks: Task[] = [
     {
       id: 1,
-      title: 'Revisar requerimientos del sistema de mantenimiento',
+      title: 'Revisar apuntes de la clase',
       completed: true,
       createdAt: new Date('2026-08-28T09:00:00')
     },
     {
       id: 2,
-      title: 'Implementar arquitectura de componentes en Angular',
+      title: 'Subir código de la práctica 2 al repositorio',
       completed: false,
       createdAt: new Date('2026-08-29T11:30:00')
     },
     {
       id: 3,
-      title: 'Configurar pruebas de integración y depuración',
+      title: 'Preparar exposición del proyecto',
       completed: false,
       createdAt: new Date('2026-08-30T14:15:00')
     }
