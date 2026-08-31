@@ -29,10 +29,10 @@ Desarrollo:
 ## Instalación
 
 1. Clonar el repositorio
-   git clone https://github.com/tu-usuario/nombre-repo.git
+   git clone https://github.com/TavoMtz/Ejercicio2-AppTareas
 
 2. Entrar a la carpeta e instalar dependencias
-   cd nombre-repo
+   cd Ejercicio2-AppTareas
    npm install
 
 3. Levantar el servidor de desarrollo
